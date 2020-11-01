@@ -1,0 +1,14 @@
+M:\VS projs\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EmoteDownloader.exe.config
+M:\VS projs\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EmoteDownloader.exe.manifest
+M:\VS projs\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EmoteDownloader.application
+M:\VS projs\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EmoteDownloader.exe
+M:\VS projs\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EmoteDownloader.pdb
+M:\VS projs\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+M:\VS projs\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\EmoteDownloader.Properties.Resources.resources
+M:\VS projs\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+M:\VS projs\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+M:\VS projs\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\EmoteDownloader.TrustInfo.xml
+M:\VS projs\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\EmoteDownloader.exe.manifest
+M:\VS projs\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\EmoteDownloader.application
+M:\VS projs\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\EmoteDownloader.exe
+M:\VS projs\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\EmoteDownloader.pdb
